@@ -1,0 +1,357 @@
+:root{
+  --color-pick: #007bff;
+}
+body{
+  font-family: 'Poppins';
+  padding-top: 40px;
+}
+
+#remAss, #addAss {
+  border-radius: 2px;
+    font-size: 14pt;
+    margin: 2px;
+    float: right;
+    padding: 0;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+.fa-minus-circle{
+  position: absolute;
+  bottom: -7px;
+  right:-7px;
+  background: white;
+  border-radius: 50%;
+  padding: 1px;
+  transition: 0.2s linear;
+  display: none;
+}
+.fa-minus-circle:hover, .subject .fa-edit:hover{
+  transform: scale(1.2);
+}
+.fa-minus-circle:hover{
+    padding: 2px;  
+}
+
+.subject .fa-edit{
+  position: absolute;
+    top: -7px;
+    left: -7px;
+    font-size: 6pt;
+    background: #3d3d3d;
+    color: white;
+    border-radius: 50%;
+    padding: 4px;
+    transition: 0.2s linear;
+  display: none;
+}
+#remAss:hover, #addAss:hover{
+  color: black;
+}
+#addSubject{
+  display:inline-block;
+  margin-right: 10px;
+}
+
+#addSubject, #deleteSubject{
+  margin-top: 2px;
+}
+
+#newSubject{
+  display: inline-block;
+  width: calc(100% - 10px);;
+  overflow: hidden;
+  margin: 5px;
+  transition: 0.2s linear;
+  height: 40px;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+#newSubject input, #newSubject button{
+  display: inline-block;
+  
+}
+#column-labels div{
+  display: inline-block;
+  width: 175px;
+  overflow: hidden;
+  height: 22px;
+  padding-left: 5px;
+}
+.subject{
+  margin: 5px;
+  position: relative;
+  
+}
+#courses .subject{
+  display: table-cell;
+      white-space: nowrap;
+    word-break: keep-all;
+    border-radius: 12px;
+    border: 8px solid white;
+}
+.subject-selected{
+  background-color: white;
+    color: cornflowerblue;
+}
+
+#donedeleteSubject{
+  display:none
+}
+.mode{
+  font-family: Monospace;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    /* left: auto; */
+    /* padding: 2px; */
+    width: 25px !important;
+    background: black;
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+
+.mode-active, .mode:hover{
+  background: #007bff;
+}
+.modewrap{
+  position: relative;
+}
+#percentMode{
+  right: 25px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-right: 2px solid;
+}
+#pointMode{
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-left: 2px solid;
+}
+#newSubjectContainer{
+  width: 300px;
+  background: white;
+  height: 300px;
+  border-radius: 5px;
+  display: none;
+  z-index: 1;
+  box-shadow: 0px 0px 10px 3px;
+}
+.perf-center{
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom:0;
+}
+#icon-selection{
+  margin: auto;
+  height: 100px;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  overflow: scroll;
+}
+#icon-selection::-webkit-scrollbar {
+  display: none;
+}
+
+.icon-selection-item{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 19px;
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.icon-selection-item:hover, .icon-selected{
+  background-color: var(--color-pick);
+  color: white;
+}
+
+.column-labels{
+  background: #007bff;
+  margin: 5px;
+  width: calc(25% - 10px);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    display: table-cell;
+    min-width: 145px;
+    border: 2px solid;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-collapse: separate;
+      font-size: 14px;
+}
+.column-labels div{
+  display: inline-block;
+  width: 100%;
+  height: 22px;
+  padding-left: 5px;
+}
+.column-labels input{
+  width: 100%;
+  margin-top: 5px;
+  border-radius: 2px;
+  border: none;
+}
+.subject{
+  margin: 5px;
+  position: relative;
+}
+
+.mode{
+  font-family: Monospace;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    /* left: auto; */
+    /* padding: 2px; */
+    width: 25px !important;
+    background: black;
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+
+.mode-active, .mode:hover{
+  background: #007bff;
+}
+.modewrap{
+  position: relative;
+}
+#percentMode{
+  right: 25px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-right: 2px solid;
+}
+#pointMode{
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-left: 2px solid;
+}
+#calc{
+  width: 100px;
+  margin: auto;
+  background-color: var(--color-pick);
+}
+.container{
+  max-width: 95% !important;
+   -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  margin-top: 20px;
+    margin-bottom: 20px;
+  padding: 0;
+}
+
+.container::-webkit-scrollbar {
+  display: none;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.row{
+  margin: 0;
+}
+
+/*#courses, .sheet, #calc{display: none;}*/
+#courses{
+  margin-left: 10px;
+  display: table;
+  padding-top: 4px;
+}
+#favcolor{
+      width: 100px;
+    border: none;
+    cursor: pointer;
+    /* height: 10px; */
+    margin-left: 50px;
+    margin-top: 5px;
+    padding: 0px;
+}
+
+#sheet-title{text-align: left;}
+
+#sheet-title .fa-edit, #sheet-title .fa-minus-circle{
+  display: none !important;
+}
+
+#newSubjectContainer .subject{
+  min-height: 36px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.top-column{
+background-color: #007bff;
+    display: inline-block;
+    border-radius: 4px;
+    padding: 6px;
+    margin: 3px;
+    width: calc(50% - 6px);
+    min-width: 182px;
+    margin-bottom: 20px;
+}
+
+.top-label{
+  color: white;
+  margin-right: 5px;
+  margin-bottom: 4px;
+}
+
+.top-column input{
+  border-radius: 4px;
+    /* outline: none; */
+    border: none;
+    text-align: center;
+    width: 100%;
+    appearance: none;
+    display: inline-block;
+    -webkit-appearance: none;
+}

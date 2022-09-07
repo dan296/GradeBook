@@ -1,0 +1,86 @@
+<div class="text-center perf-center" style="height: 430px; display: none;"><form class="form-signin">
+      <img class="mb-4" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+      <label for="inputEmail" class="sr-only">Email address</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+    </form>
+</div>
+<div class="container" style="overflow: scroll;width: calc(100% - 105px);display: inline-block;margin: 0;vertical-align: middle;min-height: 51px;">
+<div id='courses' class='row'>
+  
+</div>
+    </div>
+<button class='btn btn-primary' id="addSubject" ><i class="fas fa-plus"></i>
+    <button class='btn btn-primary' id="deleteSubject" style="padding-right: 8px;"><i class="fas fa-edit"></i>
+      <button class='btn btn-success' id="donedeleteSubject"><i  class="fas fa-check"></i>
+  </button>
+<div class='sheet'>
+  <div id="sheetwrapper">
+    <div class="container" style="padding: 0px;text-align: center; margin-bottom: 0px;">
+    <h3>
+      <div id="sheet-title">New Subject</div>
+    </h3>
+      <div class="top-column">
+    <div class="top-label">Target Grade:</div>
+    <input type="number" id="target-grade" placeholder="Target Grade (%)">
+    </div><div class="top-column">
+      <div class="top-label">Average to Maintain:</div>
+    <input type="number" readonly id='rem-avg' placeholder="Average to get on Remaining Grades"></input></div>
+    </div>
+    <div class='container' style="overflow: scroll; margin-top: 0px;">
+      <div class='row' style="display: table;">
+        <div class="column-labels">
+          <div>Assignment
+            <i id="addAss" class="fas fa-plus-square"></i><i id="remAss" class="fas fa-minus-square"></i></div>
+            <input id='item1assignment' type='text' placeholder='Assignment'></input>
+          <input id='item2assignment' type='text' placeholder='Assignment'></input>
+        </div>
+        <div class="column-labels">
+          <div>% of Total Grade</div>
+          <input type='number' id='item1pts' min='0' placeholder='Total Possible Points'>
+          <input type='number' id='item2pts' min='0' placeholder='Total Possible Points'>
+        </div>
+        <div class="column-labels">
+          <div>% Grade</div>
+          <input type='number' id='item1grade' min='0' placeholder='Grade (%)'></input>
+          <input type='number' id='item2grade' min='0' placeholder='Grade (%)'></input>
+        </div>
+        <div class="column-labels">
+          <div>Points Gained</div>
+          <input id='item1ptsgained' readonly type='number' placeholder='Grade (Pts)'>
+          <input id='item2ptsgained' readonly type='number' placeholder='Grade (Pts)'></input>
+        </div>
+        <div class="column-labels">
+          <div>Points Needed</div>
+          <input type='number' readonly id='item1verif' placeholder='Points from Projected Average'></input>
+          <input type='number' readonly id='item2verif' placeholder='Points from Projected Average'></input>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+</div>
+
+<div id='newSubjectContainer' class='perf-center'>
+  <input id="newSubject" type="text" placeholder="Subject Name" onkeyup="addToPreview()" onchange="addToPreview()"></input>
+<span style="padding-left: 5px;">Select an icon:</span>
+<div id="icon-selection"><div class='icon-selection-item'><i class="fas fa-atom"></i></div><div class='icon-selection-item'><i class="fas fa-book"></i></div><div class='icon-selection-item'><i class="fas fa-book-medical"></i></div><div class='icon-selection-item'><i class="fas fa-landmark"></i></div><div class='icon-selection-item'><i class="fas fa-notes-medical"></i></div><div class='icon-selection-item'><i class="fas fa-globe-americas"></i></div><div class='icon-selection-item'><i class="fas fa-code"></i></div><div class='icon-selection-item'><i class="fas fa-laptop-code"></i></div><div class='icon-selection-item'><i class="far fa-keyboard"></i></div><div class='icon-selection-item'><i class="fas fa-leaf"></i></div><div class='icon-selection-item'><i class="fas fa-hammer"></i></div><div class='icon-selection-item'><i class="fas fa-tools"></i></div><div class='icon-selection-item'><i class="fas fa-gavel"></i></div><div class='icon-selection-item'><i class="fas fa-money-bill-wave-alt"></i></div><div class='icon-selection-item'><i class="fas fa-heartbeat"></i></div><div class='icon-selection-item'><i class="fas fa-lungs"></i></div><div class='icon-selection-item'><i class="fas fa-viruses"></i></div><div class='icon-selection-item'><i class="fas fa-lungs-virus"></i></div><div class='icon-selection-item'><i class="fas fa-first-aid"></i></div><div class='icon-selection-item'><i class="fas fa-bolt"></i></div><div class='icon-selection-item'><i class="fas fa-plug"></i></div><div class='icon-selection-item'><i class="fas fa-football-ball"></i></div><div class='icon-selection-item'><i class="fas fa-shapes"></i></div><div class='icon-selection-item'><i class="fas fa-dumbbell"></i></div><div class='icon-selection-item'><i class="fas fa-robot"></i></div><div class='icon-selection-item'><i class="fas fa-calculator"></i></div><div class='icon-selection-item'><i class="fas fa-infinity"></i></div><div class='icon-selection-item'><i class="fas fa-square-root-alt"></i></div><div class='icon-selection-item'><i class="fas fa-brain"></i></i></div><div class='icon-selection-item'><i class="fas fa-space-shuttle"></i></div><div class='icon-selection-item'><i class="fas fa-vial"></i></div><div class='icon-selection-item'><i class="fas fa-microscope"></i></div><div class='icon-selection-item'><i class="fas fa-flask"></i></div><div class='icon-selection-item'><i class="fas fa-fire"></i></div><div class='icon-selection-item'><i class="fas fa-tree"></i></div><div class='icon-selection-item'><i class="fas fa-capsules"></i></div><div class='icon-selection-item'><i class="fas fa-pills"></i></div><div class='icon-selection-item'><i class="fas fa-tablets"></i></div><div class='icon-selection-item'><i class="fas fa-stethoscope"></i></div><div class='icon-selection-item'><i class="fas fa-percentage"></i></div>
+</div>
+<span style="padding-left: 5px;">Select a color: </span><input type="color" id="favcolor" name="favcolor" value="#007bff" onchange="getColor()" onclick="getColor()" oninput="getColor()"><br/>
+<span style="padding-left: 5px;">Preview: </span><button class="btn btn-primary subject" type="button" style="background-color: var(--color-pick)" id='preview-button'></button>
+<div style="text-align: center;">
+<button class='btn btn-success' id="confAddSubject"><i class="fas fa-check"></i></button>
+<button class='btn btn-danger' id="cancelAddSubject"><i class="fas fa-times"></i></button>
+</div>
+</div>
+<div class='row'><button id="calc" class='btn btn-primary subject'>Calculate</button></div>

@@ -1,0 +1,883 @@
+[27-Jan-2021 20:43:18 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 20:48:51 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'dkhafqqi_dan'@'localhost' to database 'dkhafqqi_gradebook' in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[27-Jan-2021 20:48:51 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 20:50:13 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'dkhafqqi_dan'@'localhost' to database 'dkhafqqi_gradebook' in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[27-Jan-2021 20:50:13 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 20:59:05 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'dkhafqqi@localhost'@'localhost' (using password: YES) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[27-Jan-2021 20:59:05 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:08:51 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'dkhafqqi@localhost'@'localhost' (using password: YES) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[27-Jan-2021 21:08:51 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:09:35 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:09:37 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:27:55 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:28:22 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:29:18 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:30:31 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:36:25 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 21:36:29 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 22:45:16 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 22:58:13 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 22:58:37 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 22:58:56 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[27-Jan-2021 22:59:59 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[28-Jan-2021 00:21:09 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:21:09 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:21:09 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:21:09 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:21:30 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:21:30 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:21:30 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:21:30 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:21:31 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:21:31 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:21:31 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:21:31 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:22:33 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:22:33 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:22:33 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:22:33 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:27:00 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:27:00 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:27:00 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:27:00 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:27:21 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:27:21 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:27:21 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:27:21 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:28:53 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:28:53 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:28:53 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:28:53 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:30:08 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:30:08 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:30:08 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:30:08 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:30:26 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:30:26 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:30:26 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:30:26 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:30:52 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:30:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:30:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:30:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:31:16 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:31:16 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:31:16 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:31:16 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:32:54 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:32:54 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:32:54 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:32:54 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:33:57 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:33:57 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:33:57 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:33:57 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:35:24 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:35:24 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:35:24 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:35:24 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:43:30 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:43:30 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:43:30 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:43:30 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:43:48 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:43:48 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:43:48 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:43:48 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:44:22 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:44:22 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:44:22 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:44:22 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:44:46 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:44:46 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:44:46 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:44:46 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:44:49 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:44:49 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:44:49 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:44:49 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:45:08 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:45:08 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:45:08 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:45:08 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:46:07 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:46:07 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:46:07 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:46:07 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:47:49 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:47:49 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:47:49 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:47:49 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:50:30 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:50:30 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:50:30 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:50:30 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:50:52 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:50:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:50:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:50:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 00:53:34 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 00:53:34 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 00:53:34 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 00:53:34 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:14:44 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:14:44 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:14:44 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:14:44 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:14:59 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:14:59 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:14:59 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:14:59 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:16:52 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:16:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:16:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:16:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:17:08 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:17:08 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:17:08 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:17:08 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:22:37 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:22:37 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:22:37 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:22:37 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:23:13 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:23:13 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:23:13 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:23:13 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:23:19 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:23:19 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:23:19 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:23:19 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:23:37 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:23:37 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:23:37 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:23:37 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:27:34 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:27:34 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:27:34 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:27:34 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:29:20 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:29:20 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:29:20 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:29:20 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:29:42 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:29:42 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:29:42 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:29:42 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:30:15 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:30:15 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:30:15 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:30:15 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:30:31 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:30:31 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:30:31 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:30:31 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:30:41 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:30:41 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:30:41 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:30:41 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:33:47 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:33:47 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:33:47 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:33:47 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:34:14 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:34:14 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:34:14 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:34:14 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:34:51 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:34:51 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:34:51 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:34:51 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:36:15 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:36:15 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:36:15 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:36:15 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:38:05 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:38:05 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:38:05 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:38:05 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:39:12 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:39:12 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:39:12 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:39:12 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:42:55 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:42:55 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:42:55 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:42:55 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:44:08 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:44:08 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:44:08 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:44:08 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:46:06 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:46:06 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:46:06 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:46:06 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:47:27 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:47:27 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:47:27 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:47:27 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:48:25 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:48:25 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:48:25 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:48:25 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:49:30 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:49:30 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:49:30 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:49:30 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 01:57:59 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 01:57:59 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 01:57:59 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 01:57:59 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 02:07:23 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 02:07:23 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 02:07:23 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 02:07:23 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 02:15:06 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 02:15:06 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 02:15:06 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 02:15:06 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 02:17:29 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 02:17:29 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 02:17:29 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 32
+[28-Jan-2021 02:17:29 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 63
+[28-Jan-2021 02:35:42 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 9
+[28-Jan-2021 02:38:37 America/New_York] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 11
+[28-Jan-2021 02:40:54 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 11
+[28-Jan-2021 02:40:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/db_connection.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 11
+[28-Jan-2021 02:40:55 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 11
+[28-Jan-2021 02:40:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/db_connection.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 11
+[28-Jan-2021 02:50:31 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 02:50:31 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 02:50:31 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 33
+[28-Jan-2021 02:50:31 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 64
+[28-Jan-2021 15:16:56 America/New_York] PHP Notice:  Undefined variable: results in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:17:08 America/New_York] PHP Notice:  Undefined variable: results in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:17:24 America/New_York] PHP Notice:  Undefined variable: results in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:17:25 America/New_York] PHP Notice:  Undefined variable: results in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:18:35 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:18:37 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:19:17 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 12
+[28-Jan-2021 15:22:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:22:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:23:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:26:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:26:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:29:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:29:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:29:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/db_connection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:39:50 America/New_York] PHP Notice:  Undefined variable: email in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:39:50 America/New_York] PHP Notice:  Undefined variable: user in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:39:50 America/New_York] PHP Notice:  Undefined variable: password in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:39:50 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 21
+[28-Jan-2021 15:40:14 America/New_York] PHP Notice:  Undefined variable: email in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:40:14 America/New_York] PHP Notice:  Undefined variable: user in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:40:14 America/New_York] PHP Notice:  Undefined variable: password in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 18
+[28-Jan-2021 15:40:14 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 21
+[28-Jan-2021 15:44:30 America/New_York] PHP Notice:  Undefined variable: email in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:44:30 America/New_York] PHP Notice:  Undefined variable: user in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:44:30 America/New_York] PHP Notice:  Undefined variable: password in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 19
+[28-Jan-2021 15:48:47 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 15:48:47 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:48:47 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 40
+[28-Jan-2021 15:48:47 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 71
+[28-Jan-2021 15:49:11 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 15:50:27 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 15:50:27 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 15:50:27 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 40
+[28-Jan-2021 15:50:27 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 71
+[28-Jan-2021 15:55:04 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:55:04 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:55:04 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 15:55:23 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 15:55:51 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 15:55:51 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 15:55:51 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:55:51 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 15:56:17 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:56:17 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:56:17 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 15:57:15 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:57:15 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:57:15 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 15:58:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:58:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:58:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 15:59:18 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 15:59:18 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 15:59:18 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:00:28 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:00:28 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:00:28 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:02:17 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:02:17 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:02:17 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:04:02 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:04:02 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:04:02 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:05:32 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:05:32 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:05:32 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:06:36 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:06:36 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:06:36 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:06:41 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:06:41 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:06:41 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:07:06 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:07:06 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:07:06 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 73
+[28-Jan-2021 16:10:24 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:10:24 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:10:24 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:10:32 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:10:41 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:10:41 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:10:41 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:10:48 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:10:48 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:10:48 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:11:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:11:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:11:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:12:03 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:12:03 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:12:03 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:12:05 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:12:05 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:12:05 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:12:33 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:12:33 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:12:33 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:12:33 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:13:11 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:13:11 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:13:11 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:15:32 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:15:32 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:15:32 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:15:50 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:15:50 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:15:50 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:15:50 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:16:17 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:16:17 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:16:17 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:18:20 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:18:20 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:18:21 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:18:21 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:18:26 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:18:26 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:18:26 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:20:34 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:20:34 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:20:34 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:20:53 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:20:53 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:20:53 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:20:53 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:21:53 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:21:53 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:21:53 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:22:12 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:22:12 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:22:12 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:22:12 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:22:38 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:22:38 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:22:38 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:24:56 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:24:56 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:24:56 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:24:56 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:25:03 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:25:03 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:25:03 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:27:53 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:27:53 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:27:53 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:29:04 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:29:04 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:29:04 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:29:21 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:29:21 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:29:21 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:30:11 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:30:11 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:30:11 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:30:28 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:30:28 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:30:28 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:30:28 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:30:34 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:30:34 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 42
+[28-Jan-2021 16:30:34 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 76
+[28-Jan-2021 16:31:52 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:31:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:31:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:31:57 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:31:57 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:31:57 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:32:09 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:32:14 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:32:22 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:32:22 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:32:22 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:32:22 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:32:28 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:32:28 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:32:28 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:34:39 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:34:39 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:34:39 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:34:52 America/New_York] PHP Notice:  Undefined index: check_cookie in /home/dkhafqqi/public_html/gradebook/db.php on line 3
+[28-Jan-2021 16:34:52 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:34:52 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:34:52 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:34:58 America/New_York] PHP Notice:  Undefined index: signing_up in /home/dkhafqqi/public_html/gradebook/db.php on line 7
+[28-Jan-2021 16:34:58 America/New_York] PHP Notice:  Undefined index: signing_in in /home/dkhafqqi/public_html/gradebook/db.php on line 41
+[28-Jan-2021 16:34:58 America/New_York] PHP Notice:  Undefined index: updating_user in /home/dkhafqqi/public_html/gradebook/db.php on line 75
+[28-Jan-2021 16:37:22 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:43:32 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 16:45:03 America/New_York] PHP Notice:  Undefined index: password in /home/dkhafqqi/public_html/gradebook/db.php on line 25
+[28-Jan-2021 17:18:02 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:02 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:02 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:02 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:03 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:03 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:04 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:04 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:04 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:04 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:04 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:05 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:05 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:05 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:05 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:06 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:07 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:07 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:07 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:18:08 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:39 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:39 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:40 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:40 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:40 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:40 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:41 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:41 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:41 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:42 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:42 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:42 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:42 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:44 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:44 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:44 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:44 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:44 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 17:19:46 America/New_York] PHP Notice:  Undefined index: email in /home/dkhafqqi/public_html/gradebook/db.php on line 112
+[28-Jan-2021 18:15:11 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 18:15:11 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 22:04:17 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 22:04:17 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 4
+[28-Jan-2021 22:28:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:28:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:29:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:29:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:30:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:30:41 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 22
+[28-Jan-2021 22:32:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:32:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:32:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:33:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:33:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 115
+[28-Jan-2021 22:35:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:35:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:37:33 America/New_York] PHP Notice:  Undefined variable: conn in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[28-Jan-2021 22:37:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dkhafqqi/public_html/gradebook/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/index.php on line 114
+[06-Feb-2021 13:48:13 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 54
+[07-Feb-2021 13:08:24 America/New_York] PHP Notice:  Undefined index: emember in /home/dkhafqqi/public_html/gradebook/db.php on line 52
+[07-Feb-2021 13:08:25 America/New_York] PHP Notice:  Undefined index: emember in /home/dkhafqqi/public_html/gradebook/db.php on line 52
+[07-Feb-2021 13:08:25 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 59
+[07-Feb-2021 13:08:28 America/New_York] PHP Notice:  Undefined index: emember in /home/dkhafqqi/public_html/gradebook/db.php on line 52
+[07-Feb-2021 13:08:28 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 59
+[07-Feb-2021 13:08:55 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 54
+[07-Feb-2021 13:10:06 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 54
+[07-Feb-2021 13:12:31 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 59
+[07-Feb-2021 13:12:34 America/New_York] PHP Notice:  Undefined index: member_login in /home/dkhafqqi/public_html/gradebook/db.php on line 54
+[14-Dec-2021 21:34:38 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 3
+[14-Dec-2021 21:34:38 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 3
+[14-Dec-2021 21:34:38 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 3
+[14-Dec-2021 21:46:31 America/New_York] PHP Notice:  Undefined variable: sheet in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:46:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setCellValueByColumnAndRow() on null in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:46:48 America/New_York] PHP Notice:  Undefined variable: sheet in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:46:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setCellValueByColumnAndRow() on null in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:46:50 America/New_York] PHP Notice:  Undefined variable: sheet in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setCellValueByColumnAndRow() on null in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 26
+[14-Dec-2021 21:48:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Xlsx' not found in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 40
+[14-Dec-2021 21:52:59 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 19
+[14-Dec-2021 21:54:43 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 19
+[14-Dec-2021 21:55:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 37
+[14-Dec-2021 21:55:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 46
+[14-Dec-2021 21:55:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 37
+[14-Dec-2021 21:58:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 38
+[14-Dec-2021 21:58:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 47
+[14-Dec-2021 21:58:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 38
+[14-Dec-2021 22:06:21 America/New_York] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::getColumnDimensionByColumn() must be of the type integer, string given, called in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 43 and defined in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php:1400
+Stack trace:
+#0 /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php(43): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getColumnDimensionByColumn('C')
+#1 {main}
+  thrown in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php on line 1400
+[14-Dec-2021 22:09:25 America/New_York] PHP Warning:  Illegal string offset 'subject' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:09:27 America/New_York] PHP Warning:  Illegal string offset 'subject' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:09:56 America/New_York] PHP Warning:  Illegal string offset 'subject' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 19
+[14-Dec-2021 22:09:56 America/New_York] PHP Warning:  Illegal string offset 'subject' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:10:51 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:11:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:11:46 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:12:38 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:12:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:13:02 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:16:35 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:17:08 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 20
+[14-Dec-2021 22:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:19:40 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:20:28 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:20:48 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:20:50 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:21:02 America/New_York] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:21:19 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:23:06 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:24:10 America/New_York] PHP Notice:  Array to string conversion in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 21
+[14-Dec-2021 22:27:09 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 58
+[14-Dec-2021 22:41:00 America/New_York] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/DefaultValueBinder.php on line 63
+[14-Dec-2021 22:41:00 America/New_York] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/StringHelper.php on line 481
+[14-Dec-2021 22:46:11 America/New_York] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 64
+[14-Dec-2021 23:08:10 America/New_York] PHP Notice:  Undefined variable: F in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 56
+[14-Dec-2021 23:08:10 America/New_York] PHP Notice:  Undefined variable: F in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 56
+[14-Dec-2021 23:08:10 America/New_York] PHP Notice:  Undefined variable: F in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 56
+[14-Dec-2021 23:08:10 America/New_York] PHP Notice:  Undefined variable: F in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 56
+[14-Dec-2021 23:22:15 America/New_York] PHP Parse error:  syntax error, unexpected 'FFFF0000' (T_STRING), expecting ',' or ')' in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 73
+[15-Dec-2021 00:12:04 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 27
+[15-Dec-2021 00:12:04 America/New_York] PHP Warning:  array_splice() expects parameter 2 to be integer, string given in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 635
+[15-Dec-2021 00:12:04 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 29
+[15-Dec-2021 00:12:04 America/New_York] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: sht_idx is out of bounds. The actual number of sheets is 1. in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:687
+Stack trace:
+#0 /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php(29): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet('sht_idx')
+#1 {main}
+  thrown in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 687
+[15-Dec-2021 00:14:14 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 27
+[15-Dec-2021 00:14:14 America/New_York] PHP Warning:  array_splice() expects parameter 2 to be integer, string given in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 635
+[15-Dec-2021 00:14:14 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 29
+[15-Dec-2021 00:14:14 America/New_York] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: sht_idx is out of bounds. The actual number of sheets is 1. in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php:687
+Stack trace:
+#0 /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php(29): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet('sht_idx')
+#1 {main}
+  thrown in /home/dkhafqqi/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Spreadsheet.php on line 687
+[15-Dec-2021 00:16:26 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:16:26 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:16:26 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:16:26 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:16:26 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:16:26 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 39
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:17:13 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 44
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:18:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:21:21 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Warning:  Use of undefined constant sht_idx - assumed 'sht_idx' (this will throw an Error in a future version of PHP) in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 00:23:32 America/New_York] PHP Notice:  Undefined index: sht_idx in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 45
+[15-Dec-2021 23:57:49 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:57:49 America/New_York] PHP Warning:  unlink(): No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:57:49 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 108
+[15-Dec-2021 23:58:36 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:58:36 America/New_York] PHP Warning:  unlink(): No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:58:36 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 108
+[15-Dec-2021 23:59:51 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:59:51 America/New_York] PHP Warning:  unlink(): No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[15-Dec-2021 23:59:51 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 108
+[16-Dec-2021 00:02:31 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[16-Dec-2021 00:02:31 America/New_York] PHP Warning:  unlink(): No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[16-Dec-2021 00:02:31 America/New_York] PHP Notice:  Undefined index: filename in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 108
+[16-Dec-2021 00:04:03 America/New_York] PHP Warning:  unlink(files/My Gradebook - dan296.xlsx): No such file or directory in /home/dkhafqqi/public_html/gradebook/phpSpreadsheet.php on line 107
+[07-Jan-2022 11:40:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:40:59 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:41:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:41:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:41:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:41:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:41:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:43:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:43:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:44:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:34 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 11:45:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 13:40:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 14:04:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:33:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:33:56 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:35:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:39:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 17:46:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
+[07-Jan-2022 19:47:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/dkhafqqi/public_html/gradebook/db_connection.php on line 8
