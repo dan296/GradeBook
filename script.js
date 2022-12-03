@@ -630,11 +630,11 @@ function signup(){
         $( "#inputUser" ).addClass( "invalid-focus" );
         $('#error-text').show();
         $('#error-text').html("Error: not alphanumeric");
-    }else if($("#inputUser").val().length<6){
+    }else if($("#inputUser").val().length<5){
          $( "#inputUser" ).effect( "shake" );
          $( "#inputUser" ).addClass( "invalid-focus" );
          $('#error-text').show();
-         $('#error-text').html("Error: must be longer than 5 characters");
+         $('#error-text').html("Error: must be longer than 4 characters");
     }else if(!alphaNumeric($('#inputPassword').val())){
         $( "#inputPassword" ).effect( "shake" );
         $( "#inputPassword" ).addClass( "invalid-focus" );
