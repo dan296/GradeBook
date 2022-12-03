@@ -626,13 +626,25 @@ function clearError(){
 var thisuser = '';
 function signup(){
     if(!alphaNumeric($("#inputUser").val())){
-        console.log("Error: not alphanumeric");
+        $( "#inputUser" ).effect( "shake" );
+        $( "#inputUser" ).addClass( "invalid-focus" );
+        $('#error-text').show();
+        $('#error-text').html("Error: not alphanumeric");
     }else if($("#inputUser").val().length<6){
-         console.log("Error: must be longer than 5 characters");
+         $( "#inputUser" ).effect( "shake" );
+         $( "#inputUser" ).addClass( "invalid-focus" );
+         $('#error-text').show();
+         $('#error-text').html("Error: must be longer than 5 characters");
     }else if(!alphaNumeric($('#inputPassword').val())){
-        console.log("Error: not alphanumeric");
+        $( "#inputPassword" ).effect( "shake" );
+        $( "#inputPassword" ).addClass( "invalid-focus" );
+        $('#error-text').show();
+        $('#error-text').html("Error: not alphanumeric");
     } else if($('#inputPassword').val().length<7){
-        console.log("Error: must be longer than 6 characters");
+        $( "#inputPassword" ).effect( "shake" );
+        $( "#inputPassword" ).addClass( "invalid-focus" );
+        $('#error-text').show();
+        $('#error-text').html("Error: must be longer than 6 characters");
     }else{
         $.ajax({
             type: "POST",
@@ -642,7 +654,15 @@ function signup(){
               console.log(data);
               data = data.trim();
               if(data.substring(0,5) == "Error"){
-                  console.log(data);
+                  if(data.indexOf("user") > -1){
+                      $( "#inputUser" ).effect( "shake" );
+                      $( "#inputUser" ).addClass( "invalid-focus" );
+                  }else if(data.indexOf("Email") > -1){
+                      $( "#inputEmail" ).effect( "shake" );
+                      $( "#inputEmail" ).addClass( "invalid-focus" );
+                  }
+                  $('#error-text').show();
+                  $('#error-text').html(data);
               }else{
                   //show screen
                   thisuser = data;
