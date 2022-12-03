@@ -3,3 +3,6 @@
 
 # Ignore all text files
 db_connection.php
+
+#error log files
+error_log
