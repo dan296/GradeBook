@@ -224,6 +224,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     border-radius: 4px;
     border: none;
     padding: 8px;
+    color: var(--bg);
 }
 #courses .subject:hover, .current-subject {
     box-shadow: 0px 0px 3px 0px black;
@@ -320,7 +321,7 @@ i.fas.fa-minus-circle.text-danger:hover {
   width: calc(25% - 10px);
     border-radius: 5px;
     padding: 5px;
-    color: white;
+    color: var(--bg);
     display: table-cell;
     min-width: 200px;
     border: 2px solid;
@@ -346,6 +347,8 @@ i.fas.fa-minus-circle.text-danger:hover {
   height: 40px;
     font-size: 25px;
     text-align: center;
+    background: var(--bg);
+    color: var(--txt);
 }
 .column-labels input::placeholder, .top-column input::placeholder{
     font-size: 15px;
@@ -516,7 +519,7 @@ input[type=number] {
 }
 
 .top-label{
-  color: white;
+  color: var(--bg);;
   margin-right: 5px;
   margin-bottom: 4px;
   text-align: left;
@@ -534,6 +537,8 @@ input[type=number] {
     -webkit-appearance: none;
     font-size: 25px;
     height: 40px;
+    background: var(--bg);
+    color: var(--txt);
 }
 
 /*form stuff*/
