@@ -220,8 +220,8 @@ function showProof(){
         var totalString = '<div class="proof_num">' + tsign + $('#item'+parseInt(i+1)+'pts').val() + '</div>';
         $('#proofneededpts').append(neededString);
         $('#prooftotalpts').append(totalString);
-        neededsum += parseFloat($('#item'+parseInt(i+1)+'verif').val());
-        sum += parseFloat($('#item'+parseInt(i+1)+'pts').val());
+        neededsum += Math.round(10000*parseFloat($('#item'+parseInt(i+1)+'verif').val()))/10000;
+        sum += Math.round(10000*parseFloat($('#item'+parseInt(i+1)+'pts').val()))/10000;
     }
     finalDec += Math.round(10000*parseFloat(neededsum/sum))/10000;
     finalPer = parseFloat(100*finalDec) + '%';
