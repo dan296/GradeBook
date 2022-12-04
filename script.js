@@ -1040,16 +1040,16 @@ $("#close-settings").click(function(){
     $("#settings-cont").fadeOut();
 })
 
-var displayMode = 0;
+var displayMode = false;
 $('.toggle-switch').click(function(){
   if(displayMode){
     document.documentElement.style.setProperty('--bg', 'white');
     document.documentElement.style.setProperty('--txt', '#1d1d1d');
-    displayMode = 0;
+    displayMode = false;
   }else{
     document.documentElement.style.setProperty('--bg', '#1d1d1d');
     document.documentElement.style.setProperty('--txt', 'white');
-    displayMode = 1;
+    displayMode = true;
   }
   
 })
