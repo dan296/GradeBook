@@ -600,6 +600,10 @@ input[type=number] {
     right: 5px;
     top: 5px;
     cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+#close-settings:hover {
+    color: var(--txt);
 }
 .column-labels:not(:first-child) {
     min-width: 100px;
