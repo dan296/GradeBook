@@ -221,7 +221,7 @@ function showProof(){
         $('#proofneededpts').append(neededString);
         $('#prooftotalpts').append(totalString);
         neededsum += Math.round(100*parseFloat($('#item'+parseInt(i+1)+'verif').val()))/100;
-        sum += Math.round(100*parseFloat($('#item'+parseInt(i+1)+'pts').val()))/100;
+        sum += Math.round(1000*parseFloat($('#item'+parseInt(i+1)+'pts').val()))/1000;
     }
     finalDec += Math.round(10000*parseFloat(neededsum/sum))/10000;
     finalPer = parseFloat(100*finalDec) + '%';
