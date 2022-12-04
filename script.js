@@ -1040,7 +1040,7 @@ $("#close-settings").click(function(){
     $("#settings-cont").fadeOut();
 })
 
-let displayMode = 0;
+var displayMode = 0;
 $('.toggle-switch').click(function(){
   if(displayMode){
     document.documentElement.style.setProperty('--bg', 'white');
