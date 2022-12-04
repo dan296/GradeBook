@@ -609,12 +609,12 @@ input[type=number] {
 
 
 /* TOGGLE SWITCH CSS */
-.toggle-switch {
+#settings-cont .toggle-switch {
   position: relative;
   width: 200px;
 }
 
-label {
+#settings-cont label {
   position: absolute;
   width: 100%;
   height: 100px;
@@ -623,12 +623,12 @@ label {
   cursor: pointer;
 }
 
-input {
+#settings-cont input {
   position: absolute;
   display: none;
 }
 
-.slider {
+#settings-cont .slider {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -636,11 +636,11 @@ input {
   transition: 0.3s;
 }
 
-input:checked ~ .slider {
+#settings-cont input:checked ~ .slider {
   background-color: var(--light);
 }
 
-.slider::before {
+#settings-cont .slider::before {
   content: "";
   position: absolute;
   top: 13px;
@@ -653,27 +653,13 @@ input:checked ~ .slider {
   transition: 0.3s;
 }
 
-input:checked ~ .slider::before {
+#settings-cont input:checked ~ .slider::before {
   transform: translateX(95px);
   background-color: var(--dark);
   box-shadow: none;
 }
 
-a {
-  position: relative;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  top: 150px;
-  left: 10px;
-  font-size: 10px;
-  text-decoration: none;
-  color: var(--link);
-  font-weight: bold;
-  text-align: center;
-}
 
-a:hover {
-  color: var(--link-hover);
-}
 
 /* TOGGLE SWITCH CSS END*/
 
