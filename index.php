@@ -219,9 +219,6 @@
                 <input type = 'checkbox'>
                 <span class = 'slider'></span>
             </label>
-            <a href = 'https://dribbble.com/shots/14199649-Dark-Light-Mode-Toggle-Switch-Pattern-A11y'>
-                Inspired by the design from Tim Silva
-            </a>
         </div>
       </div>
     </div>
