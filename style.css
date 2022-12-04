@@ -201,6 +201,8 @@ i.fas.fa-minus-circle.text-danger:hover {
   vertical-align: middle;
   text-align: center;
   outline-color: var(--color-pick);
+  color: var(--txt);
+  background: var(--bg);
 }
 #newSubject input, #newSubject button{
   display: inline-block;
@@ -274,12 +276,12 @@ i.fas.fa-minus-circle.text-danger:hover {
 }
 #newSubjectContainer{
   width: 300px;
-  background: white;
+  background: var(--bg);
   height: 300px;
   border-radius: 5px;
   display: none;
   z-index: 1;
-  box-shadow: 0px 0px 10px 3px;
+  box-shadow: 0px 0px 10px 3px var(--bg);
 }
 .perf-center{
   position: absolute;
@@ -481,6 +483,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     margin-left: 50px;
     margin-top: 5px;
     padding: 0px;
+    background: var(--bg);
 }
 
 #sheet-title{
@@ -494,6 +497,7 @@ i.fas.fa-minus-circle.text-danger:hover {
 
 #newSubjectContainer .subject{
   min-height: 36px;
+  color: var(--bg);
 }
 
 /* Chrome, Safari, Edge, Opera */
