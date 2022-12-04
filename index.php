@@ -224,7 +224,7 @@
     </div>
 </div>
 <!-- partial -->
-<div style="position: absolute; left: 0; right: 0; bottom: 0; text-align: center;">
+<div style="position: relative; left: 0; right: 0; bottom: 0; text-align: center;">
       <u>
         <a target="_blank" href="https://github.com/dan296/GradeBook" style="position: relative; left: -10px;"><i class="fab fa-github" style="margin-right: 5px; font-size: 10pt;"></i>v1.0.0</a>
       </u>
