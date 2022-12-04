@@ -87,6 +87,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     max-width: 340px !important;
     color: var(--bg);
     background-color: var(--current-color);
+    display: none;
     /*opacity: 0;*/
 }
 .bottom-column {
