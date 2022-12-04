@@ -165,10 +165,11 @@ i.fas.fa-minus-circle.text-danger:hover {
 #addSubject, #deleteSubject, #confAddSubject, #cancelAddSubject, #donedeleteSubject, #sign-out, #settings, #excel{
   border: none;
   outline: none;
+  color: var(--bg);
 }
 #addSubject:hover, #deleteSubject:hover, #confAddSubject:hover, #cancelAddSubject:hover, #donedeleteSubject:hover, #sign-out:hover, #settings:hover, #excel:hover {
     box-shadow: 0px 0px 0px 2px;
-    background-color: white;
+    background-color: var(--bg);
     color: var(--current-color);
 }
 #confAddSubject:hover, #donedeleteSubject:hover{
