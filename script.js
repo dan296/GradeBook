@@ -145,9 +145,9 @@ function calculateAverage(){
     }else{
       $('#item'+id+'grade').prop('placeholder',remAvg.toFixed(2)+'%');
       verifGrade = remAvg*parseFloat($('#item'+id+'pts').val())/100;
-      $('#item'+id+'ptsgained').prop('placeholder',verifGrade.toFixed(2));
+      $('#item'+id+'ptsgained').prop('placeholder',verifGrade.toFixed(4));
     }
-    $('#item'+id+'verif').prop('value',verifGrade.toFixed(2));
+    $('#item'+id+'verif').prop('value',verifGrade.toFixed(4));
     sumVerif+= verifGrade;
   }
   console.log(sumVerif);
