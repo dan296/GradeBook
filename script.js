@@ -696,7 +696,7 @@ function scrollToSubject(ind){
         ind = 0;
     }
         $('#course-cont').animate({
-            scrollLeft: $('#courses .subject').eq(ind).offset().left - $('#course-cont').offset().left + $('#course-cont').scrollLeft() + 5
+            scrollLeft: $('#courses .subject').eq(ind).offset().left - $('#course-cont').offset().left + $('#course-cont').scrollLeft() - 10
         });
 }
 
