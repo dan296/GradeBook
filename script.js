@@ -112,6 +112,10 @@ $('#proof').click(function(){
     });
 })
 
+$("#close-proof").click(function(){
+    $("#proof-cont").fadeOut();
+})
+
 function calculateGrades(id){
   var possPts = parseFloat($('#item'+id+'pts').val());
   var grade = parseFloat($('#item'+id+'grade').val());
@@ -1042,6 +1046,8 @@ $("#settings").click(function(){
 $("#close-settings").click(function(){
     $("#settings-cont").fadeOut();
 })
+
+
 
 $('.toggle-switch').click(function(){
   if($('.toggle-switch input').is(":checked")){
