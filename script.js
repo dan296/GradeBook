@@ -1056,7 +1056,7 @@ $('.toggle-switch').click(function(){
 })
 
 if(localStorage.getItem("display")){
-  $('.toggle-switch').click();
+  $('.toggle-switch input').click();
 }
 
 
