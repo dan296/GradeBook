@@ -224,12 +224,13 @@
     </div>
 </div>
 <!-- partial -->
+
+</div>
 <div style="position: absolute; left: 0; right: 0; bottom: 0; text-align: center;">
       <u>
         <a target="_blank" href="https://github.com/dan296/GradeBook" style="position: relative; left: -10px;"><i class="fab fa-github" style="margin-right: 5px; font-size: 10pt;"></i>v1.0.0</a>
       </u>
     </div>
-</div>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script><script  src="./script.js"></script>
 <script type="text/javascript">
