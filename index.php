@@ -224,7 +224,7 @@
     </div>
 </div>
 <!-- partial -->
-<div style="position: relative; left: 0; right: 0; bottom: 0; text-align: center;">
+<div id="git" style="position: relative; left: 0; right: 0; bottom: 0; text-align: center;">
       <u>
         <a target="_blank" href="https://github.com/dan296/GradeBook" style="position: relative;"><i class="fab fa-github" style="margin-right: 5px; font-size: 10pt;"></i>v1.0.0</a>
       </u>
@@ -256,8 +256,8 @@ if(isset($_COOKIE["member_login"]) && $_COOKIE["member_login"] !== ""){
         }
         
         setUpSheets();
-        $('#sign-in-cont').hide();
-        $(".container, #addSubject, #deleteSubject, #sign-out, #excel, #settings").show();
+        $('#sign-in-cont, #git').hide();
+        $(".container, #addSubject, #deleteSubject, #sign-out, #excel, #settings, #git").show();
         $('#course-cont').css('opacity', 1);
         <?
     }else{ ?>
