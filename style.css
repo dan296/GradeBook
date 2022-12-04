@@ -428,7 +428,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     overflow: scroll;
     height: auto;
     position: relative;
-    top: 200px;
+    margin-top: 0px;
 }
 @media only screen and (min-height: 530px) {
   #sign-in-cont {
