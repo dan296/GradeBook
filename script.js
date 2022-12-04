@@ -1052,7 +1052,7 @@ $('.toggle-switch').click(function(){
   }else{
     document.documentElement.style.setProperty('--bg', '#1d1d1d');
     document.documentElement.style.setProperty('--txt', 'white');
-    localStorage.setItem("display", 0);
+    localStorage.removeItem("display");
   }
 })
 
