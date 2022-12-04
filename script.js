@@ -107,6 +107,9 @@ $('.ass-cont .fa-minus-circle').on("click", function( event ){
 
 $('#proof').click(function(){
     showProof();
+    $('#main-wrapper').animate({
+        scrollTop: $('#main-wrapper').height()
+    });
 })
 
 function calculateGrades(id){

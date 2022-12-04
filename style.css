@@ -51,6 +51,10 @@ body{
   cursor: pointer;
   transition: 0.2s linear;
 }
+#addAss{
+  position: relative;
+    top: -1px;
+}
 /* Deleting assignments*/
 span.ass-cont {
     display: block;
