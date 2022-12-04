@@ -108,6 +108,7 @@
 
     </div>
     <div class="container" id="proof-cont">
+      <i class="fa fa-times" id="close-proof"></i>
     <div class="bottom-column" style="
         grid-column: 1 / span 1;
         grid-row: 1 / 2;

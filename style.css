@@ -602,14 +602,14 @@ input[type=number] {
     color: var(--bg);
     box-shadow: 0px 0px 10px 3px #252525;
 }
-#close-settings{
+#close-settings, #close-proof{
     position: absolute;
     right: 5px;
     top: 5px;
     cursor: pointer;
     transition: 0.3s ease-in-out;
 }
-#close-settings:hover {
+#close-settings:hover, #close-proof:hover {
     color: var(--txt);
 }
 .column-labels:not(:first-child) {
