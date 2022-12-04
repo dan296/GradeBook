@@ -216,7 +216,7 @@
         <div class="set-title">Display Mode</div>
         <div class = 'toggle-switch'>
             <label>
-                <input type = 'checkbox'>
+                <input type = 'checkbox' checked>
                 <span class = 'slider'></span>
             </label>
         </div>
