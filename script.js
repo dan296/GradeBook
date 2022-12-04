@@ -1043,7 +1043,7 @@ $("#close-settings").click(function(){
     $("#settings-cont").fadeOut();
 })
 
-$('.toggle-switch').off().click(function(){
+$('.toggle-switch').click(function(){
   if($('.toggle-switch input').is(":checked")){
     document.documentElement.style.setProperty('--bg', 'white');
     document.documentElement.style.setProperty('--txt', '#1d1d1d');
