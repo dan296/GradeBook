@@ -594,6 +594,7 @@ input[type=number] {
     bottom: 0;
     display: none;
     color: var(--bg);
+    box-shadow: 0px 0px 10px 3px #252525;
 }
 #close-settings{
     position: absolute;
@@ -601,7 +602,6 @@ input[type=number] {
     top: 5px;
     cursor: pointer;
     transition: 0.3s ease-in-out;
-    box-shadow: 0px 0px 10px 3px #252525;
 }
 #close-settings:hover {
     color: var(--txt);
