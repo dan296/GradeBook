@@ -148,7 +148,7 @@ function calculateAverage(){
       $('#item'+id+'ptsgained').prop('placeholder',verifGrade.toFixed(4));
     }
     $('#item'+id+'verif').prop('value',verifGrade.toFixed(4));
-    sumVerif+= verifGrade;
+    sumVerif+= verifGrade.toFixed(4);
   }
   console.log(sumVerif);
   console.log(possPtsSum);
