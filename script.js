@@ -116,7 +116,7 @@ $("#close-proof").click(function(){
     $("#proof-cont").fadeOut();
 })
 
-$('#target-grade').change(function(){
+$('#target-grade').keydown(function(){
       $("#close-proof").click();
   });
 
