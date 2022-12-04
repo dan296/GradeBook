@@ -226,7 +226,7 @@ function showProof(){
     finalDec += Math.round(10000*parseFloat(neededsum/sum))/10000;
     finalPer = parseFloat(100*finalDec) + '%';
     $('#proofneededptssum').html(neededsum);
-    $('#prooftotalptssum').html(sum);
+    $('#prooftotalptssum').html(sum.toFixed(3));
     $('#proofdecimal').html(finalDec);
     $('#proofpercent').html(finalPer);
 }
