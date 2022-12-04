@@ -1051,6 +1051,6 @@ $('.toggle-switch').on('click', function(){
     document.documentElement.style.setProperty('--txt', 'white');
     displayMode = true;
   }
-  
+  console.log(displayMode);
 })
 
