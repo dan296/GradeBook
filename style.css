@@ -53,7 +53,8 @@ span.ass-cont {
     position: relative;
 }
 .column-labels .fa-minus-circle {
-    display: inline !important;
+    display: inline;
+    display: none;
     left: -7px;
     bottom: auto;
     width: 16px;
