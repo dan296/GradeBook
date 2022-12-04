@@ -1,6 +1,8 @@
 :root{
   --color-pick: #007bff;
   --current-color: #007bff;
+  --bg: white;
+  --txt: #1d1d1d;
 }
 body{
     overflow: hidden;
@@ -11,6 +13,8 @@ body{
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    background: var(--bg);
+    color: var(--txt);
 }
 #main-wrapper{
     height: 100vh;
