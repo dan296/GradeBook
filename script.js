@@ -210,7 +210,7 @@ $(document).ready(function(){
 })
 function showProof(){
     $('#proof-cont').show();
-    $('#proof-cont').removeClass("hidden");
+    $('#proof-cont').css("display", "grid");
     $('#proofneededpts, #prooftotalpts').html('');
     var neededsum = 0; var sum = 0;
     var finalDec = 0; var finalPer = '';

@@ -107,7 +107,7 @@
       </div>
 
     </div>
-    <div class="container hidden" id="proof-cont">
+    <div class="container" id="proof-cont">
     <div class="bottom-column" style="
         grid-column: 1 / span 1;
         grid-row: 1 / 2;
