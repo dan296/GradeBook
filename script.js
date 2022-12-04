@@ -116,6 +116,10 @@ $("#close-proof").click(function(){
     $("#proof-cont").fadeOut();
 })
 
+$('#target-grade').change(function(){
+      $("#close-proof").click();
+  });
+
 function calculateGrades(id){
   var possPts = parseFloat($('#item'+id+'pts').val());
   var grade = parseFloat($('#item'+id+'grade').val());
