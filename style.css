@@ -237,7 +237,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     color: var(--bg);
 }
 #courses .subject:hover, .current-subject {
-    box-shadow: 0px 0px 3px 0px black;
+    box-shadow: 0px 0px 3px 0px var(--txt);
 }
 
 .subject-selected{
