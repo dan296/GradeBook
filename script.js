@@ -1041,7 +1041,7 @@ $("#close-settings").click(function(){
 })
 
 var displayMode = false;
-$('.toggle-switch').bind("click", function(){
+$('.toggle-switch').unbind().click(function(){
   if(displayMode){
     document.documentElement.style.setProperty('--bg', 'white');
     document.documentElement.style.setProperty('--txt', '#1d1d1d');
