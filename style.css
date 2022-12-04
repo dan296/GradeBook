@@ -203,6 +203,8 @@ i.fas.fa-minus-circle.text-danger:hover {
   outline-color: var(--color-pick);
   color: var(--txt);
   background: var(--bg);
+  border-radius: 5px;
+  border-color: var(--txt);
 }
 #newSubject input, #newSubject button{
   display: inline-block;
