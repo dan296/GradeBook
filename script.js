@@ -1040,17 +1040,13 @@ $("#close-settings").click(function(){
     $("#settings-cont").fadeOut();
 })
 
-var display_Mode = false;
 $('.toggle-switch').off().click(function(){
-  if(display_Mode){
+  if($('.toggle-switch input').is(":checked")){
     document.documentElement.style.setProperty('--bg', 'white');
     document.documentElement.style.setProperty('--txt', '#1d1d1d');
-    display_Mode = false;
   }else{
     document.documentElement.style.setProperty('--bg', '#1d1d1d');
     document.documentElement.style.setProperty('--txt', 'white');
-    display_Mode = true;
   }
-  console.log(display_Mode);
 })
 
