@@ -473,7 +473,6 @@ $('.subject .fa-copy').click(function(){
 
 function getColor(){
  document.documentElement.style.setProperty('--color-pick', document.getElementById("favcolor").value)
-  console.log(document.getElementById("favcolor").value);
 }
 var selectedIcon = '';
 var selectedChild = -1;
