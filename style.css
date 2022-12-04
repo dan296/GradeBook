@@ -607,11 +607,16 @@ input[type=number] {
     }
 }
 
+/*settings css:*/
+.set-title{
+  display: inline;
+}
 
 /* TOGGLE SWITCH CSS */
 #settings-cont .toggle-switch {
   position: relative;
   width: 50px;
+  float: right;
 }
 
 #settings-cont label {
@@ -658,8 +663,5 @@ input[type=number] {
   background-color: var(--dark);
   box-shadow: none;
 }
-
-
-
 /* TOGGLE SWITCH CSS END*/
 

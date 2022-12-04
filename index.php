@@ -211,7 +211,7 @@
 <button class="btn btn-danger" id="sign-out" onclick="signOut()" style="position: absolute;top: 5px;right: 5px;height: 40px;width: 40px;" title="sign out"><i class="fas fa-sign-out-alt"></i></button>
 <div id="settings-cont">
     <i class="fa fa-times" id="close-settings"></i>
-    <div>
+    <div style="margin-top: 20px; padding: 21px;">
       <div class="ind-set">
         <div class="set-title">Display Mode</div>
         <div class = 'toggle-switch'>
