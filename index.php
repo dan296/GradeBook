@@ -182,7 +182,7 @@
         font-size: 46px;
     ">
     <div class="" style="
-    color: white;
+    color: var(--bg);
     font-weight: bold;
     border-top: 5px solid;
 " id="proofpercent">70%</div></div>

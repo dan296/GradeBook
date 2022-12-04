@@ -81,7 +81,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     padding: 6px;
     width: 95%;
     max-width: 340px !important;
-    color: white;
+    color: var(--bg);
     background-color: var(--current-color);
     /*opacity: 0;*/
 }
@@ -96,7 +96,7 @@ i.fas.fa-minus-circle.text-danger:hover {
     min-width: none;
 }
 #proof-cont .top-label{
-    background: white;
+    background: var(--bg);
     font-size: 12px;
     color: var(--current-color);
     font-weight: bold;

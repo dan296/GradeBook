@@ -1050,6 +1050,7 @@ $('.toggle-switch').click(function(){
     document.documentElement.style.setProperty('--txt', 'white');
   }
   displayMode = !displayMode;
+  console.log(d)
   
 })
 
