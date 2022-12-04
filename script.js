@@ -1048,11 +1048,11 @@ $('.toggle-switch').click(function(){
   if($('.toggle-switch input').is(":checked")){
     document.documentElement.style.setProperty('--bg', 'white');
     document.documentElement.style.setProperty('--txt', '#1d1d1d');
-    localStorage.setItem("display", 1);
+    localStorage.removeItem("display");
   }else{
     document.documentElement.style.setProperty('--bg', '#1d1d1d');
     document.documentElement.style.setProperty('--txt', 'white');
-    localStorage.removeItem("display");
+    localStorage.setItem("display", 1);
   }
 })
 
