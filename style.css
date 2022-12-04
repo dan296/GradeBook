@@ -593,7 +593,7 @@ input[type=number] {
     top: 0;
     bottom: 0;
     display: none;
-    color: white;
+    color: var(--bg);
 }
 #close-settings{
     position: absolute;
